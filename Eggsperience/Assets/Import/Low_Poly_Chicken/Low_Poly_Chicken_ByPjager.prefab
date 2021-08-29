@@ -1,0 +1,3215 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &48075618153227295
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7918858566181052198}
+  m_Layer: 0
+  m_Name: Armature.Minion.Wizard.Arms.L.L_Armature.Minion.Wizard
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7918858566181052198
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 48075618153227295}
+  m_LocalRotation: {x: 0.14763033, y: -0.17714407, z: 0.19885813, w: -0.95251286}
+  m_LocalPosition: {x: 0, y: 0.13613, z: -0}
+  m_LocalScale: {x: 0.99999964, y: 0.9999941, z: 1.000004}
+  m_Children:
+  - {fileID: 8239196231337795282}
+  m_Father: {fileID: 1841232571134356967}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &115000440412957745
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4845149910378323105}
+  m_Layer: 0
+  m_Name: Armature.Minion.Swordsman.Feet.L_Armature.Minion.Swordsman
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4845149910378323105
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 115000440412957745}
+  m_LocalRotation: {x: 0, y: -0.6338334, z: -0.77346957, w: -0}
+  m_LocalPosition: {x: 0, y: 0.13259, z: -0}
+  m_LocalScale: {x: 1, y: 0.9999982, z: 0.9999982}
+  m_Children: []
+  m_Father: {fileID: 2930860216516506200}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &128272950311960819
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8078158260213087340}
+  m_Layer: 0
+  m_Name: Armature.Nature.Chicken.Root_Armature.Nature.Chicken
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8078158260213087340
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 128272950311960819}
+  m_LocalRotation: {x: 1, y: 0, z: -0, w: -0}
+  m_LocalPosition: {x: 0, y: 0.33115, z: -0.16558}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 6315081558793075644}
+  m_Father: {fileID: 2321795310916199191}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &485358515680557643
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9026801680817634711}
+  m_Layer: 0
+  m_Name: Armature.Minion.Wizard.Body_Armature.Minion.Wizard
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9026801680817634711
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 485358515680557643}
+  m_LocalRotation: {x: 0.6804667, y: 0, z: -0, w: -0.7327791}
+  m_LocalPosition: {x: -0.00019, y: 0.05607, z: -0.30072}
+  m_LocalScale: {x: 1, y: 0.9999966, z: 0.9999966}
+  m_Children:
+  - {fileID: 1841232571134356967}
+  - {fileID: 5087256002516357294}
+  - {fileID: 3179686789801316867}
+  - {fileID: 2479060391212417609}
+  - {fileID: 1234111196121170198}
+  - {fileID: 9182185078508866481}
+  m_Father: {fileID: 8593473963271791919}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &735380699953922534
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8610289575801243877}
+  m_Layer: 0
+  m_Name: Armature.Minion.Cannon.Feather.U_Armature.Minion.Cannon
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8610289575801243877
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 735380699953922534}
+  m_LocalRotation: {x: -0.6563612, y: 0, z: -0, w: -0.7544468}
+  m_LocalPosition: {x: 0, y: 0.22488, z: -0}
+  m_LocalScale: {x: 1, y: 1.0000008, z: 1.0000008}
+  m_Children: []
+  m_Father: {fileID: 8752644790602502934}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &977841624099963930
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3913912377556884513}
+  m_Layer: 0
+  m_Name: Armature.Minion.Cannon.Arms.U_Armature.Minion.Cannon
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3913912377556884513
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 977841624099963930}
+  m_LocalRotation: {x: 0, y: 0.26350737, z: -0.96465737, w: -0}
+  m_LocalPosition: {x: 0, y: 0.2938, z: -0.0608}
+  m_LocalScale: {x: 1, y: 1.0000026, z: 1.0000026}
+  m_Children:
+  - {fileID: 1966411457318086353}
+  m_Father: {fileID: 8948138395621758348}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1109372049098350320
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8948138395621758348}
+  m_Layer: 0
+  m_Name: Armature.Minion.Cannon.Body_Armature.Minion.Cannon
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8948138395621758348
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1109372049098350320}
+  m_LocalRotation: {x: -0.03699044, y: 0, z: -0, w: -0.9993156}
+  m_LocalPosition: {x: -0.00019, y: 0.46302, z: 0.74686}
+  m_LocalScale: {x: 1, y: 0.9999966, z: 0.9999966}
+  m_Children:
+  - {fileID: 3913912377556884513}
+  - {fileID: 1302024374837082690}
+  - {fileID: 854550543157804622}
+  m_Father: {fileID: 6209706725474925921}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1168099588942449515
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1966411457318086353}
+  m_Layer: 0
+  m_Name: Armature.Minion.Cannon.Arms.L_Armature.Minion.Cannon
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1966411457318086353
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1168099588942449515}
+  m_LocalRotation: {x: 0.3153909, y: 0, z: -0, w: -0.94896185}
+  m_LocalPosition: {x: 0, y: 0.09101, z: -0}
+  m_LocalScale: {x: 1, y: 1.0000036, z: 1.0000036}
+  m_Children:
+  - {fileID: 1467149892254020665}
+  m_Father: {fileID: 3913912377556884513}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1180769140061318681
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5563789290788599133}
+  m_Layer: 0
+  m_Name: Armature.Minion.Swordsman.Feather.L_Armature.Minion.Swordsman
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5563789290788599133
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1180769140061318681}
+  m_LocalRotation: {x: -0.646958, y: 0, z: -0, w: -0.7625256}
+  m_LocalPosition: {x: 0, y: 0.22046, z: -0}
+  m_LocalScale: {x: 1, y: 0.9999958, z: 0.9999958}
+  m_Children: []
+  m_Father: {fileID: 7708085740726760168}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1252910619504823182
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8249504250301132367}
+  m_Layer: 0
+  m_Name: Armature.Minion.Cannon.Wheels.R_Armature.Minion.Cannon
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8249504250301132367
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1252910619504823182}
+  m_LocalRotation: {x: 0, y: 0, z: 0.7071068, w: -0.7071068}
+  m_LocalPosition: {x: -0.00711, y: 0.19959, z: 0.3808}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 6209706725474925921}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1262299834711427438
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3256982161746814028}
+  m_Layer: 0
+  m_Name: Armature.Minion.Swordsman.Leg.U.R_Armature.Minion.Swordsman.001
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3256982161746814028
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1262299834711427438}
+  m_LocalRotation: {x: 0.99904484, y: 0, z: -0, w: -0.04369679}
+  m_LocalPosition: {x: -0.03962, y: 0, z: -0}
+  m_LocalScale: {x: 1, y: 0.9999988, z: 0.9999988}
+  m_Children:
+  - {fileID: 425058033588898163}
+  m_Father: {fileID: 7401538536558663130}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1352698562134079746
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5324665548529367720}
+  m_Layer: 0
+  m_Name: Armature.Minion.Cannon
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5324665548529367720
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1352698562134079746}
+  m_LocalRotation: {x: 0, y: 0, z: -0, w: -1}
+  m_LocalPosition: {x: -3, y: 0, z: -0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 3011555283759530296}
+  m_Father: {fileID: 2172538346068941167}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1488588407060387703
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1709933537240820902}
+  - component: {fileID: 4937664681715027669}
+  m_Layer: 0
+  m_Name: Nature.Chicken_0
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1709933537240820902
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1488588407060387703}
+  m_LocalRotation: {x: 0, y: 0, z: -0, w: -1}
+  m_LocalPosition: {x: 0, y: 0, z: -0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 5388758180824484916}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!137 &4937664681715027669
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1488588407060387703}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 60e630114e6909249b12797519325174, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: 4300000, guid: c22ef620a038091409b7c5464ea38664, type: 2}
+  m_Bones: []
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 0}
+  m_AABB:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_DirtyAABB: 1
+--- !u!1 &1659488383632548193
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2930860216516506200}
+  m_Layer: 0
+  m_Name: Armature.Minion.Swordsman.Leg.L.L_Armature.Minion.Swordsman
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2930860216516506200
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1659488383632548193}
+  m_LocalRotation: {x: 0.1786442, y: 0, z: -0, w: -0.98391384}
+  m_LocalPosition: {x: 0, y: 0.16211, z: -0}
+  m_LocalScale: {x: 1, y: 0.9999973, z: 0.9999973}
+  m_Children:
+  - {fileID: 4845149910378323105}
+  m_Father: {fileID: 7955391331738145672}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1912623140341208235
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3486473826223566561}
+  m_Layer: 0
+  m_Name: Armature.Nature.Chicken.Foot.M.L_Armature.Nature.Chicken
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3486473826223566561
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1912623140341208235}
+  m_LocalRotation: {x: -0.5826779, y: -0.0024566299, z: -0.0034273132, w: -0.8126923}
+  m_LocalPosition: {x: 0, y: 0.04453, z: -0}
+  m_LocalScale: {x: 0.9999936, y: 0.99999756, z: 1.0000031}
+  m_Children:
+  - {fileID: 7555777187641790221}
+  m_Father: {fileID: 1184088774688565717}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1919460005774111779
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7391645673962101099}
+  m_Layer: 0
+  m_Name: Low_Poly_Chicken_ByPjager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7391645673962101099
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1919460005774111779}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 6260909725418055823}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1928784060179327328
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3895457714641790307}
+  m_Layer: 0
+  m_Name: Armature.Minion.Swordsman.Arms.U.R_Armature.Minion.Swordsman.001
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3895457714641790307
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1928784060179327328}
+  m_LocalRotation: {x: -0.24600689, y: 0.44529775, z: -0.8268167, w: -0.23992635}
+  m_LocalPosition: {x: -0.1299, y: 0.26983, z: -0.02561}
+  m_LocalScale: {x: 0.999996, y: 0.99999654, z: 1.0000045}
+  m_Children:
+  - {fileID: 2616552117193562590}
+  m_Father: {fileID: 7401538536558663130}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1995686474645023030
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3249916183999928418}
+  m_Layer: 0
+  m_Name: Armature.Nature.Chicken.Neck_Armature.Nature.Chicken
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3249916183999928418
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1995686474645023030}
+  m_LocalRotation: {x: -0.2178853, y: 0, z: -0, w: -0.9759744}
+  m_LocalPosition: {x: 0, y: 0.06206, z: -0}
+  m_LocalScale: {x: 1, y: 0.9999978, z: 0.9999978}
+  m_Children:
+  - {fileID: 5656453803558882214}
+  m_Father: {fileID: 2300176729307039048}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1998060154800306962
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8752644790602502934}
+  m_Layer: 0
+  m_Name: Armature.Minion.Cannon.feather.L_Armature.Minion.Cannon
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8752644790602502934
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1998060154800306962}
+  m_LocalRotation: {x: -0.46485412, y: 0, z: -0, w: -0.8853873}
+  m_LocalPosition: {x: 0, y: 0.54414, z: -0}
+  m_LocalScale: {x: 1, y: 0.99999774, z: 0.99999774}
+  m_Children:
+  - {fileID: 8610289575801243877}
+  m_Father: {fileID: 1302024374837082690}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2169494347303879302
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2036767333435747807}
+  m_Layer: 0
+  m_Name: Armature.Minion.Swordsman.Hands.R_Armature.Minion.Swordsman
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2036767333435747807
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2169494347303879302}
+  m_LocalRotation: {x: 0.16044173, y: 0.014060476, z: -0.13584425, w: -0.9775516}
+  m_LocalPosition: {x: 0, y: 0.09682, z: -0}
+  m_LocalScale: {x: 1.0000038, y: 0.9999995, z: 0.99999845}
+  m_Children: []
+  m_Father: {fileID: 2472180856344883868}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2298832144207375858
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1841232571134356967}
+  m_Layer: 0
+  m_Name: Armature.Minion.Wizard.Arms.U.L_Armature.Minion.Wizard
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1841232571134356967
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2298832144207375858}
+  m_LocalRotation: {x: 0.03582607, y: 0.3729008, z: -0.8618942, w: 0.34176004}
+  m_LocalPosition: {x: 0.13028, y: 0.26983, z: -0.02561}
+  m_LocalScale: {x: 0.9999956, y: 0.9999944, z: 1.0000002}
+  m_Children:
+  - {fileID: 7918858566181052198}
+  m_Father: {fileID: 9026801680817634711}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2298984661696567433
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4046337614059750342}
+  m_Layer: 0
+  m_Name: Armature.Nature.Chicken.Pecker.U_Armature.Nature.Chicken
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4046337614059750342
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2298984661696567433}
+  m_LocalRotation: {x: 0, y: 0.75020003, z: -0.66121095, w: -0}
+  m_LocalPosition: {x: 0, y: 0.06531, z: -0}
+  m_LocalScale: {x: 1, y: 0.99999905, z: 0.99999905}
+  m_Children: []
+  m_Father: {fileID: 5656453803558882214}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2404899934631043607
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8239196231337795282}
+  m_Layer: 0
+  m_Name: Armature.Minion.Wizard.Hands.L_Armature.Minion.Wizard
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8239196231337795282
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2404899934631043607}
+  m_LocalRotation: {x: 0.16041087, y: -0.013843005, z: 0.13588, w: -0.9775548}
+  m_LocalPosition: {x: 0, y: 0.09682, z: -0}
+  m_LocalScale: {x: 0.99999875, y: 1.0000023, z: 0.9999952}
+  m_Children: []
+  m_Father: {fileID: 7918858566181052198}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2478593406687408501
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2498851537485899514}
+  m_Layer: 0
+  m_Name: Armature.Nature.Chicken.Foor.F.R_Armature.Nature.Chicken
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2498851537485899514
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2478593406687408501}
+  m_LocalRotation: {x: 0.102738604, y: 0, z: -0, w: -0.99470836}
+  m_LocalPosition: {x: 0, y: 0.01991, z: -0}
+  m_LocalScale: {x: 1, y: 1.0000005, z: 1.0000005}
+  m_Children: []
+  m_Father: {fileID: 3771020880099434010}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2494980518921008836
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5027008996103324715}
+  m_Layer: 0
+  m_Name: Armature.Minion.Swordsman.Arms.U.L_Armature.Minion.Swordsman.001
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5027008996103324715
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2494980518921008836}
+  m_LocalRotation: {x: 0.03582607, y: 0.3729008, z: -0.8618942, w: 0.34176004}
+  m_LocalPosition: {x: 0.13028, y: 0.26983, z: -0.02561}
+  m_LocalScale: {x: 0.9999956, y: 0.9999944, z: 1.0000002}
+  m_Children:
+  - {fileID: 6885657342831123673}
+  m_Father: {fileID: 7401538536558663130}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2538434895930274086
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 425058033588898163}
+  m_Layer: 0
+  m_Name: Armature.Minion.Swordsman.Leg.L.R_Armature.Minion.Swordsman.001
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &425058033588898163
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2538434895930274086}
+  m_LocalRotation: {x: 0.1786442, y: 0, z: -0, w: -0.98391384}
+  m_LocalPosition: {x: 0, y: 0.16211, z: -0}
+  m_LocalScale: {x: 1, y: 0.9999973, z: 0.9999973}
+  m_Children:
+  - {fileID: 8106113265122646524}
+  m_Father: {fileID: 3256982161746814028}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2570551310424275633
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4237514637757781174}
+  m_Layer: 0
+  m_Name: Armature.Nature.Chicken.Leg.L.R_Armature.Nature.Chicken
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4237514637757781174
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2570551310424275633}
+  m_LocalRotation: {x: -0.036243603, y: 0.999005, z: -0.025985809, w: -0.00028027903}
+  m_LocalPosition: {x: 0, y: 0.06222, z: -0}
+  m_LocalScale: {x: 0.999995, y: 0.9999977, z: 1.0000031}
+  m_Children:
+  - {fileID: 3771020880099434010}
+  - {fileID: 8170297846311627962}
+  m_Father: {fileID: 7466794134706674337}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2612993470523184597
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7236976789351237833}
+  m_Layer: 0
+  m_Name: Armature.Minion.Swordsman_rootJoint
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7236976789351237833
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2612993470523184597}
+  m_LocalRotation: {x: 0, y: 0, z: -0, w: -1}
+  m_LocalPosition: {x: 0, y: 0, z: -0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 6171647041507558260}
+  m_Father: {fileID: 2399263071189508183}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2696653323114895985
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4674990860814376287}
+  m_Layer: 0
+  m_Name: Armature.Minion.Swordsman.Leg.U.L_Armature.Minion.Swordsman.001
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4674990860814376287
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2696653323114895985}
+  m_LocalRotation: {x: 0.99904484, y: 0, z: -0, w: -0.04369679}
+  m_LocalPosition: {x: 0.04, y: 0, z: -0}
+  m_LocalScale: {x: 1, y: 0.9999988, z: 0.9999988}
+  m_Children:
+  - {fileID: 4810054538664767804}
+  m_Father: {fileID: 7401538536558663130}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3210182519735250064
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1735665579104020731}
+  m_Layer: 0
+  m_Name: Armature.Minion.Swordsman.Feather.U_Armature.Minion.Swordsman.001
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1735665579104020731
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3210182519735250064}
+  m_LocalRotation: {x: -0.4677875, y: 0, z: -0, w: -0.883841}
+  m_LocalPosition: {x: 0, y: 0.54414, z: -0}
+  m_LocalScale: {x: 1, y: 1.0000006, z: 1.0000006}
+  m_Children:
+  - {fileID: 2648492077651507216}
+  m_Father: {fileID: 6274629444841237126}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3291913632061582214
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 663301410186580629}
+  m_Layer: 0
+  m_Name: Armature.Minion.Swordsman.Feet.L_Armature.Minion.Swordsman.001
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &663301410186580629
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3291913632061582214}
+  m_LocalRotation: {x: 0, y: -0.6338334, z: -0.77346957, w: -0}
+  m_LocalPosition: {x: 0, y: 0.13259, z: -0}
+  m_LocalScale: {x: 1, y: 0.9999982, z: 0.9999982}
+  m_Children: []
+  m_Father: {fileID: 4810054538664767804}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3460083327065437949
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9182185078508866481}
+  m_Layer: 0
+  m_Name: Armature.Minion.Wizard.Arms.U.R_Armature.Minion.Wizard
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9182185078508866481
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3460083327065437949}
+  m_LocalRotation: {x: -0.24600689, y: 0.44529775, z: -0.8268167, w: -0.23992635}
+  m_LocalPosition: {x: -0.1299, y: 0.26983, z: -0.02561}
+  m_LocalScale: {x: 0.999996, y: 0.99999654, z: 1.0000045}
+  m_Children:
+  - {fileID: 4221392086241711388}
+  m_Father: {fileID: 9026801680817634711}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3505915790073804994
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2399263071189508183}
+  m_Layer: 0
+  m_Name: Armature.Minion.Swordsman
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2399263071189508183
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3505915790073804994}
+  m_LocalRotation: {x: 0, y: 0, z: -0, w: -1}
+  m_LocalPosition: {x: 0, y: 0, z: -0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 7236976789351237833}
+  m_Father: {fileID: 2172538346068941167}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3800700956460714521
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7146024421812096430}
+  m_Layer: 0
+  m_Name: Armature.Minion.Swordsman.Head_Armature.Minion.Swordsman
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7146024421812096430
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3800700956460714521}
+  m_LocalRotation: {x: 0.02561834, y: 0, z: -0, w: -0.9996718}
+  m_LocalPosition: {x: 0, y: 0.33493, z: -0}
+  m_LocalScale: {x: 1, y: 1.0000026, z: 1.0000026}
+  m_Children:
+  - {fileID: 7708085740726760168}
+  m_Father: {fileID: 6171647041507558260}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3926638222505746575
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5388758180824484916}
+  m_Layer: 0
+  m_Name: Armature.Nature.Chicken
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5388758180824484916
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3926638222505746575}
+  m_LocalRotation: {x: 0, y: 0, z: -0, w: -1}
+  m_LocalPosition: {x: 0, y: 0, z: -0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 2321795310916199191}
+  - {fileID: 1709933537240820902}
+  - {fileID: 8963384993851954454}
+  m_Father: {fileID: 2172538346068941167}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4119413094175414000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3782199491675205668}
+  m_Layer: 0
+  m_Name: Armature.Minion.Swordsman.Feet.R_Armature.Minion.Swordsman
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3782199491675205668
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4119413094175414000}
+  m_LocalRotation: {x: 0, y: -0.6338334, z: -0.77346957, w: -0}
+  m_LocalPosition: {x: 0, y: 0.13259, z: -0}
+  m_LocalScale: {x: 1, y: 0.9999982, z: 0.9999982}
+  m_Children: []
+  m_Father: {fileID: 8583370139286841796}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4163382441184640385
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2648492077651507216}
+  m_Layer: 0
+  m_Name: Armature.Minion.Swordsman.Feather.L_Armature.Minion.Swordsman.001
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2648492077651507216
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4163382441184640385}
+  m_LocalRotation: {x: -0.646958, y: 0, z: -0, w: -0.7625256}
+  m_LocalPosition: {x: 0, y: 0.22046, z: -0}
+  m_LocalScale: {x: 1, y: 0.9999958, z: 0.9999958}
+  m_Children: []
+  m_Father: {fileID: 1735665579104020731}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4399002631344745928
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7955391331738145672}
+  m_Layer: 0
+  m_Name: Armature.Minion.Swordsman.Leg.U.L_Armature.Minion.Swordsman
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7955391331738145672
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4399002631344745928}
+  m_LocalRotation: {x: 0.99904484, y: 0, z: -0, w: -0.04369679}
+  m_LocalPosition: {x: 0.04, y: 0, z: -0}
+  m_LocalScale: {x: 1, y: 0.9999988, z: 0.9999988}
+  m_Children:
+  - {fileID: 2930860216516506200}
+  m_Father: {fileID: 6171647041507558260}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4407937507799580138
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7401538536558663130}
+  m_Layer: 0
+  m_Name: Armature.Minion.Swordsman.Body_Armature.Minion.Swordsman.001
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7401538536558663130
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4407937507799580138}
+  m_LocalRotation: {x: 0.6804667, y: 0, z: -0, w: -0.7327791}
+  m_LocalPosition: {x: -0.00019, y: 0.05607, z: -0.30072}
+  m_LocalScale: {x: 1, y: 0.9999966, z: 0.9999966}
+  m_Children:
+  - {fileID: 5027008996103324715}
+  - {fileID: 6274629444841237126}
+  - {fileID: 4674990860814376287}
+  - {fileID: 3256982161746814028}
+  - {fileID: 3895457714641790307}
+  m_Father: {fileID: 4489815772696468306}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4416723251720301838
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1963887302381742423}
+  m_Layer: 0
+  m_Name: Armature.Minion.Wizard.Leg.L.R_Armature.Minion.Wizard
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1963887302381742423
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4416723251720301838}
+  m_LocalRotation: {x: 0.1786442, y: 0, z: -0, w: -0.98391384}
+  m_LocalPosition: {x: 0, y: 0.16211, z: -0}
+  m_LocalScale: {x: 1, y: 0.9999973, z: 0.9999973}
+  m_Children:
+  - {fileID: 2926981718257514888}
+  m_Father: {fileID: 1234111196121170198}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4421487066215935262
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8963384993851954454}
+  m_Layer: 0
+  m_Name: Nature.Chicken
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8963384993851954454
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4421487066215935262}
+  m_LocalRotation: {x: 0, y: 0, z: -0, w: -1}
+  m_LocalPosition: {x: 0, y: 0, z: -0}
+  m_LocalScale: {x: 0.15738, y: 0.15738, z: 0.15738}
+  m_Children: []
+  m_Father: {fileID: 5388758180824484916}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4432359109039671945
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4627083564058973007}
+  m_Layer: 0
+  m_Name: Armature.Nature.Chicken.Pecker.L_Armature.Nature.Chicken
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4627083564058973007
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4432359109039671945}
+  m_LocalRotation: {x: 0, y: 0.683213, z: -0.7302191, w: -0}
+  m_LocalPosition: {x: 0, y: 0.06531, z: -0}
+  m_LocalScale: {x: 1, y: 0.9999996, z: 0.9999996}
+  m_Children: []
+  m_Father: {fileID: 5656453803558882214}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4499372052149401326
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6414756320832862964}
+  m_Layer: 0
+  m_Name: Armature.Minion.Cannon.Feet_Armature.Minion.Cannon
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6414756320832862964
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4499372052149401326}
+  m_LocalRotation: {x: 0, y: -0.6338334, z: -0.77346957, w: -0}
+  m_LocalPosition: {x: 0, y: 0.13259, z: -0}
+  m_LocalScale: {x: 1, y: 0.9999982, z: 0.9999982}
+  m_Children: []
+  m_Father: {fileID: 6507254756640540528}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4570463280566109447
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2616552117193562590}
+  m_Layer: 0
+  m_Name: Armature.Minion.Swordsman.Arms.L.R_Armature.Minion.Swordsman.001
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2616552117193562590
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4570463280566109447}
+  m_LocalRotation: {x: 0.09443153, y: -0.06195839, z: -0.22895741, w: -0.96686214}
+  m_LocalPosition: {x: 0, y: 0.13613, z: -0}
+  m_LocalScale: {x: 0.9999996, y: 0.99999565, z: 1.0000051}
+  m_Children:
+  - {fileID: 1804803853786290652}
+  m_Father: {fileID: 3895457714641790307}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4592239684451542608
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2172538346068941167}
+  m_Layer: 0
+  m_Name: Root
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2172538346068941167
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4592239684451542608}
+  m_LocalRotation: {x: 0, y: 0, z: -0, w: -1}
+  m_LocalPosition: {x: 0, y: 0, z: -0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5324665548529367720}
+  - {fileID: 5388758180824484916}
+  - {fileID: 2399263071189508183}
+  - {fileID: 2360719101483045905}
+  - {fileID: 4304439066038503459}
+  m_Father: {fileID: 703577402907695820}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4621467798097888033
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6507254756640540528}
+  m_Layer: 0
+  m_Name: Armature.Minion.Cannon.Leg.L_Armature.Minion.Cannon
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6507254756640540528
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4621467798097888033}
+  m_LocalRotation: {x: 0.1786442, y: 0, z: -0, w: -0.98391384}
+  m_LocalPosition: {x: 0, y: 0.16211, z: -0}
+  m_LocalScale: {x: 1, y: 0.9999973, z: 0.9999973}
+  m_Children:
+  - {fileID: 6414756320832862964}
+  m_Father: {fileID: 854550543157804622}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4705963419684957252
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3510598342928817258}
+  m_Layer: 0
+  m_Name: Armature.Nature.Chicken.Foot.H.L_Armature.Nature.Chicken
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3510598342928817258
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4705963419684957252}
+  m_LocalRotation: {x: 0.566252, y: 0.002387551, z: -0.0034735065, w: -0.82422143}
+  m_LocalPosition: {x: 0, y: 0.04453, z: -0}
+  m_LocalScale: {x: 0.99999446, y: 0.99999803, z: 1.0000051}
+  m_Children: []
+  m_Father: {fileID: 1184088774688565717}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4858808754526767277
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3407399214784401224}
+  m_Layer: 0
+  m_Name: Armature.Minion.Swordsman.Arms.L.L_Armature.Minion.Swordsman
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3407399214784401224
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4858808754526767277}
+  m_LocalRotation: {x: 0.14763033, y: -0.17714407, z: 0.19885813, w: -0.95251286}
+  m_LocalPosition: {x: 0, y: 0.13613, z: -0}
+  m_LocalScale: {x: 0.99999964, y: 0.9999941, z: 1.000004}
+  m_Children:
+  - {fileID: 2713478682281667726}
+  m_Father: {fileID: 919532771974269280}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4913123957097400203
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 109096474543407153}
+  m_Layer: 0
+  m_Name: Armature.Nature.Chicken.L.R_Armature.Nature.Chicken
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &109096474543407153
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4913123957097400203}
+  m_LocalRotation: {x: -0.179269, y: 0.005106829, z: 0.02459103, w: -0.98347944}
+  m_LocalPosition: {x: 0, y: 0.07895, z: -0}
+  m_LocalScale: {x: 1.0000013, y: 1.0000064, z: 0.99999505}
+  m_Children: []
+  m_Father: {fileID: 3737788386341486580}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4955198541180673569
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6171647041507558260}
+  m_Layer: 0
+  m_Name: Armature.Minion.Swordsman.Body_Armature.Minion.Swordsman
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6171647041507558260
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4955198541180673569}
+  m_LocalRotation: {x: 0.6804667, y: 0, z: -0, w: -0.7327791}
+  m_LocalPosition: {x: -0.00019, y: 0.05607, z: -0.30072}
+  m_LocalScale: {x: 1, y: 0.9999966, z: 0.9999966}
+  m_Children:
+  - {fileID: 919532771974269280}
+  - {fileID: 7146024421812096430}
+  - {fileID: 7955391331738145672}
+  - {fileID: 5045394133408756686}
+  - {fileID: 5078047194849228415}
+  m_Father: {fileID: 7236976789351237833}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5228046698195045107
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7555777187641790221}
+  m_Layer: 0
+  m_Name: Armature.Nature.Chicken.Foot.F.L_Armature.Nature.Chicken
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7555777187641790221
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5228046698195045107}
+  m_LocalRotation: {x: -0.102738604, y: 0, z: -0, w: -0.99470836}
+  m_LocalPosition: {x: 0, y: 0.01991, z: -0}
+  m_LocalScale: {x: 1, y: 1.0000005, z: 1.0000005}
+  m_Children: []
+  m_Father: {fileID: 3486473826223566561}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5342637081436686806
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2202218975920577514}
+  m_Layer: 0
+  m_Name: Armature.Nature.Chicken.Tail_Armature.Nature.Chicken
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2202218975920577514
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5342637081436686806}
+  m_LocalRotation: {x: 0, y: 0.27578643, z: -0.96121895, w: -0}
+  m_LocalPosition: {x: 0, y: 0.00429, z: -0.03176}
+  m_LocalScale: {x: 1, y: 0.99999565, z: 0.99999565}
+  m_Children: []
+  m_Father: {fileID: 6315081558793075644}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5378097212964537836
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2926981718257514888}
+  m_Layer: 0
+  m_Name: Armature.Minion.Wizard.Feet.R_Armature.Minion.Wizard
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2926981718257514888
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5378097212964537836}
+  m_LocalRotation: {x: 0, y: -0.6338334, z: -0.77346957, w: -0}
+  m_LocalPosition: {x: 0, y: 0.13259, z: -0}
+  m_LocalScale: {x: 1, y: 0.9999982, z: 0.9999982}
+  m_Children: []
+  m_Father: {fileID: 1963887302381742423}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5386817914432963128
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1804803853786290652}
+  m_Layer: 0
+  m_Name: Armature.Minion.Swordsman.Hands.R_Armature.Minion.Swordsman.001
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1804803853786290652
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5386817914432963128}
+  m_LocalRotation: {x: 0.16044173, y: 0.014060476, z: -0.13584425, w: -0.9775516}
+  m_LocalPosition: {x: 0, y: 0.09682, z: -0}
+  m_LocalScale: {x: 1.0000038, y: 0.9999995, z: 0.99999845}
+  m_Children: []
+  m_Father: {fileID: 2616552117193562590}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5529204841980341367
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8593473963271791919}
+  m_Layer: 0
+  m_Name: Armature.Minion.Wizard_rootJoint
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8593473963271791919
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5529204841980341367}
+  m_LocalRotation: {x: 0, y: 0, z: -0, w: -1}
+  m_LocalPosition: {x: 0, y: 0, z: -0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 9026801680817634711}
+  m_Father: {fileID: 2360719101483045905}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5581692716551963698
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4596892722582617099}
+  m_Layer: 0
+  m_Name: Armature.Nature.ChickenHead.IK_Armature.Nature.Chicken
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4596892722582617099
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5581692716551963698}
+  m_LocalRotation: {x: 0, y: 0.47742516, z: -0.8786724, w: -0}
+  m_LocalPosition: {x: 0, y: -0.05692, z: -0.36993}
+  m_LocalScale: {x: 1, y: 0.9999992, z: 0.9999992}
+  m_Children: []
+  m_Father: {fileID: 2321795310916199191}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5600887624329191602
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1234111196121170198}
+  m_Layer: 0
+  m_Name: Armature.Minion.Wizard.Leg.U.R_Armature.Minion.Wizard
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1234111196121170198
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5600887624329191602}
+  m_LocalRotation: {x: 0.99904484, y: 0, z: -0, w: -0.04369679}
+  m_LocalPosition: {x: -0.03962, y: 0, z: -0}
+  m_LocalScale: {x: 1, y: 0.9999988, z: 0.9999988}
+  m_Children:
+  - {fileID: 1963887302381742423}
+  m_Father: {fileID: 9026801680817634711}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5645947145681487664
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8045021653536610406}
+  m_Layer: 0
+  m_Name: Armature.Minion.Wizard.Leg.L.L_Armature.Minion.Wizard
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8045021653536610406
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5645947145681487664}
+  m_LocalRotation: {x: 0.1786442, y: 0, z: -0, w: -0.98391384}
+  m_LocalPosition: {x: 0, y: 0.16211, z: -0}
+  m_LocalScale: {x: 1, y: 0.9999973, z: 0.9999973}
+  m_Children:
+  - {fileID: 3027568383360666473}
+  m_Father: {fileID: 2479060391212417609}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5770315281639730811
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 76312236427557963}
+  m_Layer: 0
+  m_Name: Armature.Nature.Chicken.Leg.U.L_Armature.Nature.Chicken
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &76312236427557963
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5770315281639730811}
+  m_LocalRotation: {x: -0.020157324, y: 0.7179917, z: 0.69539344, w: 0.022573445}
+  m_LocalPosition: {x: -0.0184, y: 0.10484, z: 0.05344}
+  m_LocalScale: {x: 1.000002, y: 0.9999933, z: 0.9999996}
+  m_Children:
+  - {fileID: 1184088774688565717}
+  m_Father: {fileID: 6315081558793075644}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5811248510800529719
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2300176729307039048}
+  m_Layer: 0
+  m_Name: Armature.Nature.Chicken.Chest_Armature.Nature.Chicken
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2300176729307039048
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5811248510800529719}
+  m_LocalRotation: {x: 0, y: 0.95093125, z: -0.30940217, w: -0}
+  m_LocalPosition: {x: 0, y: 0.05191, z: -0}
+  m_LocalScale: {x: 1, y: 0.9999993, z: 0.9999993}
+  m_Children:
+  - {fileID: 3249916183999928418}
+  m_Father: {fileID: 8213367923327884740}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5827469619608672722
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3027568383360666473}
+  m_Layer: 0
+  m_Name: Armature.Minion.Wizard.Feet.L_Armature.Minion.Wizard
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3027568383360666473
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5827469619608672722}
+  m_LocalRotation: {x: 0, y: -0.6338334, z: -0.77346957, w: -0}
+  m_LocalPosition: {x: 0, y: 0.13259, z: -0}
+  m_LocalScale: {x: 1, y: 0.9999982, z: 0.9999982}
+  m_Children: []
+  m_Father: {fileID: 8045021653536610406}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5872605449544649993
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8170297846311627962}
+  m_Layer: 0
+  m_Name: Armature.Nature.Chicken.Foot.H.R_Armature.Nature.Chicken
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8170297846311627962
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5872605449544649993}
+  m_LocalRotation: {x: 0.39794448, y: 0.5811243, z: 0.40285677, w: -0.5845008}
+  m_LocalPosition: {x: 0, y: 0.04453, z: -0}
+  m_LocalScale: {x: 0.99999446, y: 0.99999803, z: 1.0000051}
+  m_Children: []
+  m_Father: {fileID: 4237514637757781174}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5874061421938675366
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8213367923327884740}
+  m_Layer: 0
+  m_Name: Armature.Nature.Chicken.Belly_Armature.Nature.Chicken
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8213367923327884740
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5874061421938675366}
+  m_LocalRotation: {x: 0.2869824, y: 0, z: -0, w: -0.95793587}
+  m_LocalPosition: {x: 0, y: 0.09348, z: -0}
+  m_LocalScale: {x: 1, y: 0.9999974, z: 0.9999974}
+  m_Children:
+  - {fileID: 2300176729307039048}
+  - {fileID: 6909266444425434977}
+  - {fileID: 3737788386341486580}
+  m_Father: {fileID: 6315081558793075644}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5951711699830882655
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1184088774688565717}
+  m_Layer: 0
+  m_Name: Armature.Nature.Chicken.Leg.L.L_Armature.Nature.Chicken
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1184088774688565717
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5951711699830882655}
+  m_LocalRotation: {x: 0.0362135, y: -0.00094341504, z: -0.026030969, w: -0.99900454}
+  m_LocalPosition: {x: 0, y: 0.06222, z: -0}
+  m_LocalScale: {x: 0.9999979, y: 0.99999505, z: 1.0000067}
+  m_Children:
+  - {fileID: 3486473826223566561}
+  - {fileID: 3510598342928817258}
+  m_Father: {fileID: 76312236427557963}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6070136722113150944
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 854550543157804622}
+  m_Layer: 0
+  m_Name: Armature.Minion.Cannon.Leg.U_Armature.Minion.Cannon
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &854550543157804622
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6070136722113150944}
+  m_LocalRotation: {x: 0.99904484, y: 0, z: -0, w: -0.04369679}
+  m_LocalPosition: {x: 0, y: 0, z: -0}
+  m_LocalScale: {x: 1, y: 0.9999988, z: 0.9999988}
+  m_Children:
+  - {fileID: 6507254756640540528}
+  m_Father: {fileID: 8948138395621758348}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6201400213003478436
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6209706725474925921}
+  m_Layer: 0
+  m_Name: Armature.Minion.Cannon.Base_Armature.Minion.Cannon
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6209706725474925921
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6201400213003478436}
+  m_LocalRotation: {x: 0.7071068, y: 0, z: -0, w: -0.7071068}
+  m_LocalPosition: {x: 0, y: 0, z: -0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 3180815517019948108}
+  - {fileID: 8249504250301132367}
+  - {fileID: 4571057235769609634}
+  - {fileID: 8948138395621758348}
+  m_Father: {fileID: 3011555283759530296}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6487667494176473012
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3771020880099434010}
+  m_Layer: 0
+  m_Name: Armature.Nature.Chicken.Foot.M.R_Armature.Nature.Chicken
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3771020880099434010
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6487667494176473012}
+  m_LocalRotation: {x: 0.409592, y: -0.5729231, z: -0.41443896, w: -0.5763973}
+  m_LocalPosition: {x: 0, y: 0.04453, z: -0}
+  m_LocalScale: {x: 0.9999936, y: 0.99999756, z: 1.0000031}
+  m_Children:
+  - {fileID: 2498851537485899514}
+  m_Father: {fileID: 4237514637757781174}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6566814364674233936
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3011555283759530296}
+  m_Layer: 0
+  m_Name: Armature.Minion.Cannon_rootJoint
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3011555283759530296
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6566814364674233936}
+  m_LocalRotation: {x: 0, y: 0, z: -0, w: -1}
+  m_LocalPosition: {x: 0, y: 0, z: -0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 6209706725474925921}
+  m_Father: {fileID: 5324665548529367720}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6634663185721436738
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2479060391212417609}
+  m_Layer: 0
+  m_Name: Armature.Minion.Wizard.Leg.U.L_Armature.Minion.Wizard
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2479060391212417609
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6634663185721436738}
+  m_LocalRotation: {x: 0.99904484, y: 0, z: -0, w: -0.04369679}
+  m_LocalPosition: {x: 0.04, y: 0, z: -0}
+  m_LocalScale: {x: 1, y: 0.9999988, z: 0.9999988}
+  m_Children:
+  - {fileID: 8045021653536610406}
+  m_Father: {fileID: 9026801680817634711}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6866753689758954411
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4489815772696468306}
+  m_Layer: 0
+  m_Name: Armature.Minion.Swordsman.001_rootJoint
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4489815772696468306
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6866753689758954411}
+  m_LocalRotation: {x: 0, y: 0, z: -0, w: -1}
+  m_LocalPosition: {x: 0, y: 0, z: -0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 7401538536558663130}
+  m_Father: {fileID: 4304439066038503459}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6870735123436690129
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6909266444425434977}
+  m_Layer: 0
+  m_Name: Armature.Nature.Chicken_Wing.U.L_Armature.Nature.Chicken
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6909266444425434977
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6870735123436690129}
+  m_LocalRotation: {x: 0.6976176, y: -0.22918569, z: -0.67664963, w: 0.054303985}
+  m_LocalPosition: {x: -0.05225, y: 0.07072, z: -0.0203}
+  m_LocalScale: {x: 0.9999937, y: 1.0000017, z: 1.0000039}
+  m_Children:
+  - {fileID: 7922259008087239768}
+  m_Father: {fileID: 8213367923327884740}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7173067072934470703
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3180815517019948108}
+  m_Layer: 0
+  m_Name: Armature.Minion.Cannon.Wheels.F_Armature.Minion.Cannon
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3180815517019948108
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7173067072934470703}
+  m_LocalRotation: {x: 0, y: 0, z: 0.7071068, w: -0.7071068}
+  m_LocalPosition: {x: -0.00711, y: 0.15963, z: -0.3808}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 6209706725474925921}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7173539846220327394
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4304439066038503459}
+  m_Layer: 0
+  m_Name: Armature.Minion.Swordsman.001
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4304439066038503459
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7173539846220327394}
+  m_LocalRotation: {x: 0, y: 0, z: -0, w: -1}
+  m_LocalPosition: {x: -2, y: 0, z: -0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4489815772696468306}
+  m_Father: {fileID: 2172538346068941167}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7273647536668385998
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4571057235769609634}
+  m_Layer: 0
+  m_Name: Armature.Minion.Cannon.Cannon_Armature.Minion.Cannon
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4571057235769609634
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7273647536668385998}
+  m_LocalRotation: {x: 0.7071068, y: 0, z: -0, w: -0.7071068}
+  m_LocalPosition: {x: 0, y: 0.62136, z: 0.00754}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 6209706725474925921}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7348845492069647672
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5087256002516357294}
+  m_Layer: 0
+  m_Name: Armature.Minion.Wizard.Head_Armature.Minion.Wizard
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5087256002516357294
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7348845492069647672}
+  m_LocalRotation: {x: 0.02561834, y: 0, z: -0, w: -0.9996718}
+  m_LocalPosition: {x: 0, y: 0.33493, z: -0}
+  m_LocalScale: {x: 1, y: 1.0000026, z: 1.0000026}
+  m_Children: []
+  m_Father: {fileID: 9026801680817634711}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7356720999054915063
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1302024374837082690}
+  m_Layer: 0
+  m_Name: Armature.Minion.Cannon.Head_Armature.Minion.Cannon
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1302024374837082690
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7356720999054915063}
+  m_LocalRotation: {x: 0.02561834, y: 0, z: -0, w: -0.9996718}
+  m_LocalPosition: {x: 0, y: 0.33493, z: -0}
+  m_LocalScale: {x: 1, y: 1.0000026, z: 1.0000026}
+  m_Children:
+  - {fileID: 8752644790602502934}
+  m_Father: {fileID: 8948138395621758348}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7397636081084940791
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 703577402907695820}
+  m_Layer: 0
+  m_Name: RootNode (model correction matrix)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &703577402907695820
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7397636081084940791}
+  m_LocalRotation: {x: 0, y: 0, z: -0, w: -1}
+  m_LocalPosition: {x: 0, y: 0, z: -0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 2172538346068941167}
+  m_Father: {fileID: 6260909725418055823}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7552140236096978646
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2472180856344883868}
+  m_Layer: 0
+  m_Name: Armature.Minion.Swordsman.Arms.L.R_Armature.Minion.Swordsman
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2472180856344883868
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7552140236096978646}
+  m_LocalRotation: {x: 0.09443153, y: -0.06195839, z: -0.22895741, w: -0.96686214}
+  m_LocalPosition: {x: 0, y: 0.13613, z: -0}
+  m_LocalScale: {x: 0.9999996, y: 0.99999565, z: 1.0000051}
+  m_Children:
+  - {fileID: 2036767333435747807}
+  m_Father: {fileID: 5078047194849228415}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7687910806908092897
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6885657342831123673}
+  m_Layer: 0
+  m_Name: Armature.Minion.Swordsman.Arms.L.L_Armature.Minion.Swordsman.001
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6885657342831123673
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7687910806908092897}
+  m_LocalRotation: {x: 0.14763033, y: -0.17714407, z: 0.19885813, w: -0.95251286}
+  m_LocalPosition: {x: 0, y: 0.13613, z: -0}
+  m_LocalScale: {x: 0.99999964, y: 0.9999941, z: 1.000004}
+  m_Children:
+  - {fileID: 8666129085487819065}
+  m_Father: {fileID: 5027008996103324715}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7955143609995912244
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6260909725418055823}
+  m_Layer: 0
+  m_Name: RootNode (gltf orientation matrix)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6260909725418055823
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7955143609995912244}
+  m_LocalRotation: {x: -0.7071068, y: 0, z: -0, w: -0.7071068}
+  m_LocalPosition: {x: 0, y: 0, z: -0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 703577402907695820}
+  m_Father: {fileID: 7391645673962101099}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8035447062706240724
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4221392086241711388}
+  m_Layer: 0
+  m_Name: Armature.Minion.Wizard.Arms.L.R_Armature.Minion.Wizard
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4221392086241711388
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8035447062706240724}
+  m_LocalRotation: {x: 0.09443153, y: -0.06195839, z: -0.22895741, w: -0.96686214}
+  m_LocalPosition: {x: 0, y: 0.13613, z: -0}
+  m_LocalScale: {x: 0.9999996, y: 0.99999565, z: 1.0000051}
+  m_Children:
+  - {fileID: 4095440654435267168}
+  m_Father: {fileID: 9182185078508866481}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8104037716994595720
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7708085740726760168}
+  m_Layer: 0
+  m_Name: Armature.Minion.Swordsman.Feather.U_Armature.Minion.Swordsman
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7708085740726760168
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8104037716994595720}
+  m_LocalRotation: {x: -0.4677875, y: 0, z: -0, w: -0.883841}
+  m_LocalPosition: {x: 0, y: 0.54414, z: -0}
+  m_LocalScale: {x: 1, y: 1.0000006, z: 1.0000006}
+  m_Children:
+  - {fileID: 5563789290788599133}
+  m_Father: {fileID: 7146024421812096430}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8200196481062189300
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2713478682281667726}
+  m_Layer: 0
+  m_Name: Armature.Minion.Swordsman.Hands.L_Armature.Minion.Swordsman
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2713478682281667726
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8200196481062189300}
+  m_LocalRotation: {x: 0.16041087, y: -0.013843005, z: 0.13588, w: -0.9775548}
+  m_LocalPosition: {x: 0, y: 0.09682, z: -0}
+  m_LocalScale: {x: 0.99999875, y: 1.0000023, z: 0.9999952}
+  m_Children: []
+  m_Father: {fileID: 3407399214784401224}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8200673076598655143
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8666129085487819065}
+  m_Layer: 0
+  m_Name: Armature.Minion.Swordsman.Hands.L_Armature.Minion.Swordsman.001
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8666129085487819065
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8200673076598655143}
+  m_LocalRotation: {x: 0.16041087, y: -0.013843005, z: 0.13588, w: -0.9775548}
+  m_LocalPosition: {x: 0, y: 0.09682, z: -0}
+  m_LocalScale: {x: 0.99999875, y: 1.0000023, z: 0.9999952}
+  m_Children: []
+  m_Father: {fileID: 6885657342831123673}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8221921561907539358
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8986204666458726423}
+  m_Layer: 0
+  m_Name: Armature.Minion.Wizard.Cape.L_Armature.Minion.Wizard
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8986204666458726423
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8221921561907539358}
+  m_LocalRotation: {x: 0.036008235, y: 0, z: -0, w: -0.9993515}
+  m_LocalPosition: {x: 0, y: 0.30926, z: -0}
+  m_LocalScale: {x: 1, y: 1.0000032, z: 1.0000032}
+  m_Children: []
+  m_Father: {fileID: 3179686789801316867}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8268969959623632465
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6274629444841237126}
+  m_Layer: 0
+  m_Name: Armature.Minion.Swordsman.Head_Armature.Minion.Swordsman.001
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6274629444841237126
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8268969959623632465}
+  m_LocalRotation: {x: 0.02561834, y: 0, z: -0, w: -0.9996718}
+  m_LocalPosition: {x: 0, y: 0.33493, z: -0}
+  m_LocalScale: {x: 1, y: 1.0000026, z: 1.0000026}
+  m_Children:
+  - {fileID: 1735665579104020731}
+  m_Father: {fileID: 7401538536558663130}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8301011316982939422
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 919532771974269280}
+  m_Layer: 0
+  m_Name: Armature.Minion.Swordsman.Arms.U.L_Armature.Minion.Swordsman
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &919532771974269280
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8301011316982939422}
+  m_LocalRotation: {x: 0.03582607, y: 0.3729008, z: -0.8618942, w: 0.34176004}
+  m_LocalPosition: {x: 0.13028, y: 0.26983, z: -0.02561}
+  m_LocalScale: {x: 0.9999956, y: 0.9999944, z: 1.0000002}
+  m_Children:
+  - {fileID: 3407399214784401224}
+  m_Father: {fileID: 6171647041507558260}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8358489664684426761
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5078047194849228415}
+  m_Layer: 0
+  m_Name: Armature.Minion.Swordsman.Arms.U.R_Armature.Minion.Swordsman
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5078047194849228415
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8358489664684426761}
+  m_LocalRotation: {x: -0.24600689, y: 0.44529775, z: -0.8268167, w: -0.23992635}
+  m_LocalPosition: {x: -0.1299, y: 0.26983, z: -0.02561}
+  m_LocalScale: {x: 0.999996, y: 0.99999654, z: 1.0000045}
+  m_Children:
+  - {fileID: 2472180856344883868}
+  m_Father: {fileID: 6171647041507558260}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8362261671270142266
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3737788386341486580}
+  m_Layer: 0
+  m_Name: Armature.Nature.Chicken.Wing.U.R_Armature.Nature.Chicken
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3737788386341486580
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8362261671270142266}
+  m_LocalRotation: {x: 0.67664963, y: -0.054303985, z: -0.6976176, w: 0.22918569}
+  m_LocalPosition: {x: 0.05225, y: 0.07072, z: -0.0203}
+  m_LocalScale: {x: 0.9999937, y: 1.0000017, z: 1.0000039}
+  m_Children:
+  - {fileID: 109096474543407153}
+  m_Father: {fileID: 8213367923327884740}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8384098526461405763
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1467149892254020665}
+  m_Layer: 0
+  m_Name: Armature.Minion.Cannon.Hands_Armature.Minion.Cannon
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1467149892254020665
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8384098526461405763}
+  m_LocalRotation: {x: 0.1601838, y: 0, z: -0, w: -0.9870872}
+  m_LocalPosition: {x: 0, y: 0.09487, z: -0}
+  m_LocalScale: {x: 1, y: 0.99999756, z: 0.99999756}
+  m_Children: []
+  m_Father: {fileID: 1966411457318086353}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8456889259173661553
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4810054538664767804}
+  m_Layer: 0
+  m_Name: Armature.Minion.Swordsman.Leg.L.L_Armature.Minion.Swordsman.001
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4810054538664767804
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8456889259173661553}
+  m_LocalRotation: {x: 0.1786442, y: 0, z: -0, w: -0.98391384}
+  m_LocalPosition: {x: 0, y: 0.16211, z: -0}
+  m_LocalScale: {x: 1, y: 0.9999973, z: 0.9999973}
+  m_Children:
+  - {fileID: 663301410186580629}
+  m_Father: {fileID: 4674990860814376287}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8460983645431275477
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2360719101483045905}
+  m_Layer: 0
+  m_Name: Armature.Minion.Wizard
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2360719101483045905
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8460983645431275477}
+  m_LocalRotation: {x: 0, y: 0, z: -0, w: -1}
+  m_LocalPosition: {x: -1, y: 0, z: -0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 8593473963271791919}
+  m_Father: {fileID: 2172538346068941167}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8668632420866589302
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3179686789801316867}
+  m_Layer: 0
+  m_Name: Armature.Minion.Wizard.Cape.U_Armature.Minion.Wizard
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3179686789801316867
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8668632420866589302}
+  m_LocalRotation: {x: 0.99193114, y: 0, z: -0, w: 0.12677856}
+  m_LocalPosition: {x: 0, y: 0.32318, z: 0.08581}
+  m_LocalScale: {x: 1, y: 0.99999547, z: 0.99999547}
+  m_Children:
+  - {fileID: 8986204666458726423}
+  m_Father: {fileID: 9026801680817634711}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8858734592806655836
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5656453803558882214}
+  m_Layer: 0
+  m_Name: Armature.Nature.Chicken.Head_Armature.Nature.Chicken
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5656453803558882214
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8858734592806655836}
+  m_LocalRotation: {x: 0.21411549, y: 0, z: -0, w: -0.97680837}
+  m_LocalPosition: {x: 0, y: 0.04955, z: -0}
+  m_LocalScale: {x: 1, y: 1.000001, z: 1.000001}
+  m_Children:
+  - {fileID: 4046337614059750342}
+  - {fileID: 4627083564058973007}
+  m_Father: {fileID: 3249916183999928418}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8933690806519686876
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2321795310916199191}
+  m_Layer: 0
+  m_Name: Armature.Nature.Chicken_rootJoint
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2321795310916199191
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8933690806519686876}
+  m_LocalRotation: {x: 0, y: 0, z: -0, w: -1}
+  m_LocalPosition: {x: 0, y: 0, z: -0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 8078158260213087340}
+  - {fileID: 4596892722582617099}
+  m_Father: {fileID: 5388758180824484916}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8989254972277052821
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4095440654435267168}
+  m_Layer: 0
+  m_Name: Armature.Minion.Wizard.Hands.R_Armature.Minion.Wizard
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4095440654435267168
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8989254972277052821}
+  m_LocalRotation: {x: 0.16044173, y: 0.014060476, z: -0.13584425, w: -0.9775516}
+  m_LocalPosition: {x: 0, y: 0.09682, z: -0}
+  m_LocalScale: {x: 1.0000038, y: 0.9999995, z: 0.99999845}
+  m_Children: []
+  m_Father: {fileID: 4221392086241711388}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &9011535877176025446
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8583370139286841796}
+  m_Layer: 0
+  m_Name: Armature.Minion.Swordsman.Leg.L.R_Armature.Minion.Swordsman
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8583370139286841796
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9011535877176025446}
+  m_LocalRotation: {x: 0.1786442, y: 0, z: -0, w: -0.98391384}
+  m_LocalPosition: {x: 0, y: 0.16211, z: -0}
+  m_LocalScale: {x: 1, y: 0.9999973, z: 0.9999973}
+  m_Children:
+  - {fileID: 3782199491675205668}
+  m_Father: {fileID: 5045394133408756686}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &9015484209162983835
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8106113265122646524}
+  m_Layer: 0
+  m_Name: Armature.Minion.Swordsman.Feet.R_Armature.Minion.Swordsman.001
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8106113265122646524
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9015484209162983835}
+  m_LocalRotation: {x: 0, y: -0.6338334, z: -0.77346957, w: -0}
+  m_LocalPosition: {x: 0, y: 0.13259, z: -0}
+  m_LocalScale: {x: 1, y: 0.9999982, z: 0.9999982}
+  m_Children: []
+  m_Father: {fileID: 425058033588898163}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &9054097126163898721
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7466794134706674337}
+  m_Layer: 0
+  m_Name: Armature.Nature.Chicken.Leg.U.R_Armature.Nature.Chicken
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7466794134706674337
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9054097126163898721}
+  m_LocalRotation: {x: 0.5065568, y: 0.52305394, z: 0.47684446, w: 0.492376}
+  m_LocalPosition: {x: 0.0184, y: 0.10484, z: 0.05344}
+  m_LocalScale: {x: 1.0000015, y: 0.9999963, z: 1.0000058}
+  m_Children:
+  - {fileID: 4237514637757781174}
+  m_Father: {fileID: 6315081558793075644}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &9133934842325539029
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5045394133408756686}
+  m_Layer: 0
+  m_Name: Armature.Minion.Swordsman.Leg.U.R_Armature.Minion.Swordsman
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5045394133408756686
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9133934842325539029}
+  m_LocalRotation: {x: 0.99904484, y: 0, z: -0, w: -0.04369679}
+  m_LocalPosition: {x: -0.03962, y: 0, z: -0}
+  m_LocalScale: {x: 1, y: 0.9999988, z: 0.9999988}
+  m_Children:
+  - {fileID: 8583370139286841796}
+  m_Father: {fileID: 6171647041507558260}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &9161501070088913633
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6315081558793075644}
+  m_Layer: 0
+  m_Name: Armature.Nature.Chicken.Butt_Armature.Nature.Chicken
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6315081558793075644
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9161501070088913633}
+  m_LocalRotation: {x: 0, y: 0.9997951, z: 0.020244155, w: -0}
+  m_LocalPosition: {x: 0, y: 0.21898, z: -0}
+  m_LocalScale: {x: 1, y: 0.99999964, z: 0.99999964}
+  m_Children:
+  - {fileID: 8213367923327884740}
+  - {fileID: 76312236427557963}
+  - {fileID: 7466794134706674337}
+  - {fileID: 2202218975920577514}
+  m_Father: {fileID: 8078158260213087340}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &9169333003811300898
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7922259008087239768}
+  m_Layer: 0
+  m_Name: Armature.Nature.Chicken.Wing.L.L_Armature.Nature.Chicken
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7922259008087239768
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9169333003811300898}
+  m_LocalRotation: {x: 0.179269, y: -0.005106829, z: 0.02459103, w: -0.98347944}
+  m_LocalPosition: {x: 0, y: 0.07895, z: -0}
+  m_LocalScale: {x: 1.0000013, y: 1.0000064, z: 0.99999505}
+  m_Children: []
+  m_Father: {fileID: 6909266444425434977}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
